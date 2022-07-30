@@ -2,7 +2,7 @@
   "name": "dent",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mazorsharp.github.io/dent-repair-website",
+  "homepage": "http://mazorsharp.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
