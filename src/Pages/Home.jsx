@@ -9,6 +9,8 @@ import before4 from "../Assets/pro_dent_master2.JPG";
 import after4 from "../Assets/pro_dent_master4.JPG";
 import before5 from "../Assets/pro_dent_master16.JPG";
 import after5 from "../Assets/pro_dent_master18.JPG";
+import before6 from "../Assets/pro_dent_master19.JPEG";
+import after6 from "../Assets/pro_dent_master20.JPEG";
 
 export const Home = () => {
   return (
@@ -91,6 +93,25 @@ export const Home = () => {
             <h6>After</h6>
           </div>
         </section>
+
+        <section className="beforeAfterHor">
+          <div id="beforeHomeHor">
+            <img
+              src={before6}
+              alt="before hail damage"
+              className="homeImgHor"
+            ></img>
+            <h6>Before</h6>
+          </div>
+          <div id="afterHomeHor">
+            <img
+              src={after6}
+              alt="after hail damage"
+              className="homeImgHor"
+            ></img>
+            <h6>After</h6>
+          </div>
+        </section>
         {/* 
       <section className="beforeAfter">
         <div id="beforeHome">
@@ -107,7 +128,7 @@ export const Home = () => {
       <div className="pageTitle" id="about">
         <h2 className="header-title">About</h2>
         <h4 className="about-text">
-          Pro Dent Master was created by Youry Mazor. With over 30 years of
+          Pro Dent Master was created by Youry Mazor. With over 25 years of
           working as an auto repair technician, Youry has mastered the art of
           paintless dent repair. Whether the dent came from hail, door dings,
           car accident, or any other form of damage, your vehicle is in safe

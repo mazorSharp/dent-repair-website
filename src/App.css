@@ -70,8 +70,21 @@
   padding-bottom: 0.6em;
 }
 
+.beforeAfterHor {
+  background: rgb(214, 214, 202);
+  margin: 0.5em;
+  display: inline-flex;
+  text-align: center;
+  padding-bottom: 0.6em;
+}
+
 .homeImg {
   height: 70vh;
+  padding: 1em;
+}
+
+.homeImgHor {
+  height: 50vh;
   padding: 1em;
 }
 
@@ -157,10 +170,26 @@ h6 {
     text-decoration: none;
   }
 
+  .beforeAfterHor {
+    display: block;
+    padding: 0;
+    background: inherit;
+    margin: 0.1em;
+    text-decoration: none;
+  }
+
   .homeImg {
     display: inline-flex;
     text-align: center;
     height: 70vw;
+    padding: 0;
+    margin: 0.5em;
+  }
+
+  .homeImgHor {
+    /* display: inline-block; */
+    text-align: center;
+    height: 60vw;
     padding: 0;
     margin: 0.5em;
   }
@@ -172,7 +201,7 @@ h6 {
   }
 
   .header-title {
-    font-size: 1em;
+    font-size: 0.9em;
     margin: auto 20px;
   }
 
