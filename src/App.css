@@ -44,7 +44,8 @@
 .header-title {
   text-decoration: underline;
   text-decoration-color: red;
-  font-size: 1.7em;
+  font-size: 1.5em;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .header-text {
@@ -187,6 +188,10 @@ h6 {
     padding: 1em 0.9em;
     font-weight: 400;
     font-size: 0.5em;
+  }
+
+  h6 {
+    font-size: 0.6em;
   }
 
   .contactBox {
