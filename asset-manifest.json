@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/dent-repair-website/static/css/main.f6f4aaa0.css",
     "main.js": "/dent-repair-website/static/js/main.d7758790.js",
     "static/media/pro_dent_master12.JPG": "/dent-repair-website/static/media/pro_dent_master12.4b8bd00301c95e7bb13e.JPG",
@@ -20,5 +21,27 @@
   "entrypoints": [
     "static/css/main.f6f4aaa0.css",
     "static/js/main.d7758790.js"
+=======
+    "main.css": "/static/css/main.f6f4aaa0.css",
+    "main.js": "/static/js/main.04043e6a.js",
+    "static/media/pro_dent_master12.JPG": "/static/media/pro_dent_master12.4b8bd00301c95e7bb13e.JPG",
+    "static/media/pro_dent_master6.JPG": "/static/media/pro_dent_master6.4a73fc1a19acca5399f9.JPG",
+    "static/media/pro_dent_master9.JPG": "/static/media/pro_dent_master9.0a35827d53beb66ed7d5.JPG",
+    "static/media/pro_dent_master5.JPG": "/static/media/pro_dent_master5.1a38966ee85d83848e8c.JPG",
+    "static/media/pro_dent_master4.JPG": "/static/media/pro_dent_master4.89a416b675ddb7a4844d.JPG",
+    "static/media/pro_dent_master2.JPG": "/static/media/pro_dent_master2.3b89baf7b5972754e300.JPG",
+    "static/media/pro_dent_master18.JPG": "/static/media/pro_dent_master18.f4ad8110841666cf948a.JPG",
+    "static/media/pro_dent_master8.JPG": "/static/media/pro_dent_master8.dcaad492053fe44f68b9.JPG",
+    "static/media/pro_dent_master16.JPG": "/static/media/pro_dent_master16.d7be38f2cd624d599cff.JPG",
+    "static/media/pro_dent_master7.JPG": "/static/media/pro_dent_master7.45bab6133751058fe911.JPG",
+    "static/media/pro_dent_master_logo.png": "/static/media/pro_dent_master_logo.d1f445ce59715ad43dc5.png",
+    "index.html": "/index.html",
+    "main.f6f4aaa0.css.map": "/static/css/main.f6f4aaa0.css.map",
+    "main.04043e6a.js.map": "/static/js/main.04043e6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f4aaa0.css",
+    "static/js/main.04043e6a.js"
+>>>>>>> refs/remotes/origin/gh-pages
   ]
 }
